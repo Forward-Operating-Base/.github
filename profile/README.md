@@ -1,4 +1,4 @@
-# True North Forward Operating Base (TN-FOB)
+# Forward Operating Base (TN-FOB)
 
 **Platform Brand:** TN-FOB (Forward Operating Base)  
 **Entity:** True North Data Strategies LLC  
