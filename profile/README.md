@@ -61,21 +61,6 @@ Each module can operate independently or integrate into the broader FOB ecosyste
 
 ---
 
-## Six Pillars of Support
-
-| Pillar | Focus Area |
-|--------|------------|
-| Pillar 1 | Employment & Education |
-| Pillar 2 | Business & Entrepreneurship |
-| Pillar 3 | Housing & Homelessness |
-| Pillar 4 | Financial Wellness |
-| Pillar 5 | Health & Crisis Response |
-| Pillar 6 | Operations & Nonprofit Infrastructure |
-
-Detailed public briefs for individual modules are available below.
-
----
-
 ## Flagship Module
 
 ### Peer-Support Rapid Connect  
@@ -98,13 +83,16 @@ When a veteran reaches out:
 
 ## Production Modules (Public Briefs)
 
-| Module | Summary | Public Brief |
+## Six Pillars of Support
+
+| Pillar | Focus Area | Public Brief |
 |--------|---------|--------------|
-| Peer-Support Rapid Connect | Peer crisis support infrastructure | [View Brief](https://github.com/Forward-Operating-Base/public-briefs/tree/main/buddy-backup-command) |
-| GovContract Navigator | Veteran-focused government contracting guidance | [View Brief](https://github.com/Forward-Operating-Base/public-briefs/tree/main/govcontract-navigator) |
-| Automated Proposal Writer | Structured federal proposal drafting support | [View Brief](https://github.com/Forward-Operating-Base/public-briefs/tree/main/automated-proposal-writer) |
-| Procurement Readiness Assessment | Government procurement maturity evaluation | [View Brief](https://github.com/Forward-Operating-Base/public-briefs/tree/main/procurement-readiness) |
-| Financial & Tax Compliance Suite | Compliance and reporting infrastructure | [View Brief](https://github.com/Forward-Operating-Base/public-briefs/tree/main/financial-tax-compliance) |
+| Pillar 1 | Employment & Education | [View Brief](https://github.com/Forward-Operating-Base/PILLAR-1-EMPLOYMENT) |
+| Pillar 2 | Business & Entrepreneurship | [View Brief](https://github.com/Forward-Operating-Base/PILLAR-2-BUSINESS) |
+| Pillar 3 | Housing & Homelessness | [View Brief](https://github.com/Forward-Operating-Base/PILLAR-3-HOUSING) |
+| Pillar 4 | Financial Wellness |[View Brief](https://github.com/Forward-Operating-Base/PILLAR-4-FINANCIAL) |
+| Pillar 5 | Health & Crisis Response | [View Brief](https://github.com/Forward-Operating-Base/PILLAR-5-HEALTH) |
+| Pillar 6 | Operations & Nonprofit Infrastructure | [View Brief](https://github.com/Forward-Operating-Base/PILLAR-6-OPERATIONS) |
 
 ---
 
