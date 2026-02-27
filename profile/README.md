@@ -5,7 +5,9 @@
 **Location:** Colorado Springs, CO  
 **Motto:** *OWN THE OUTCOME*
 
-<img src="./FOB.png" alt="FOB" width="260" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Forward-Operating-Base/.github/main/profile/FOBs.png" width="260" alt="FOB Logo" />
+</p>
 
 </div>
 ---
