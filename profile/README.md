@@ -5,6 +5,9 @@
 **Location:** Colorado Springs, CO  
 **Motto:** *OWN THE OUTCOME*
 
+<img src="./FOB.png" alt="FOB" width="260" />
+
+</div>
 ---
 
 ## Overview
